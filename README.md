@@ -1,2 +1,2 @@
 # pic-storage
-picture storage for my blog
+picture storage for my blog!
